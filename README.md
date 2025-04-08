@@ -10,7 +10,7 @@ $$\dfrac{d^2\theta_n}{dt^2}=\dfrac{K}{J}(\theta_{n-1}-2\theta_n+\theta_{n+1})$$
 
 Le vecteur d'état choisi est
 
-$$Y=\left[\theta_0, ..., \theta_{N-1}, \dfrac{d\theta_0}{dt},\dots,\dfrac{\theta_{N-1}}{dt}\right]^T$$
+$$Y=\left[\theta_0,\dots, \theta_{N-1}, \dfrac{d\theta_0}{dt},\dots,\dfrac{\theta_{N-1}}{dt}\right]^T$$
 
 Le régime libre est déterminé par l'équation dynamique
 
@@ -23,11 +23,11 @@ $$A=
 0_{N \times N}&I_N\\
 \dfrac{K}{J}
 \pmatrix{
--2&1&0&...&0&0&0\\
-1&-2&1&...&0&0&0\\
-...&...&...&...&...&...&...\\
-0&0&0&...&1&-2&1\\
-0&0&0&...&0&1&-2
+-2&1&0&\dots&0&0&0\\
+1&-2&1&\dots&0&0&0\\
+\dots&\dots&\dots&\dots&\dots&\dots&\dots\\
+0&0&0&\dots&1&-2&1\\
+0&0&0&\dots&0&1&-2
 }
 &0_{N \times N}
 }$$
