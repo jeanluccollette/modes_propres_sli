@@ -20,7 +20,7 @@ avec
 
 $$A=
 \pmatrix{
-0_{N\crossN}&I_N\\
+0_{N \cross N}&I_N\\
 0&1
 }$$
  
