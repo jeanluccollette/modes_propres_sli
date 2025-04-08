@@ -20,8 +20,9 @@ avec
 
 $$A=
 \pmatrix{
-1&0\\
-0&1}$$
+0_{N\crossN}&I_N\\
+0&1
+}$$
  
 ## Illustrations
 
