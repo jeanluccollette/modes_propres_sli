@@ -11,6 +11,14 @@ $$\dfrac{d^2\theta_n}{dt^2}=\dfrac{K}{J}(\theta_{n-1}-2\theta_n+\theta_{n+1})$$
 Le vecteur d'état choisi est
 
 $$Y=\left[\theta_0, ..., \theta_{N-1}, \dfrac{d\theta_0}{dt},...,\dfrac{\theta_{N-1}}{dt}\right]^T$$
+
+Le régime libre est déterminé par l'équation dynamique
+
+$$\dfrac{dY}{dt}=AY$$
+
+avec
+
+$$A=\pmatrix{1&0\\0&1}$$
  
 ## Illustrations
 
