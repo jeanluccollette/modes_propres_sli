@@ -6,7 +6,7 @@ On considère $N$ barres horizontales de moment d'inertie $J$, suspendues à un 
 
 Le principe fondamental de la dynamique appliqué à la barre $n$ est alors
 $$
-\dfrac{d^2\theta_n}{dt^2}=\dfrac{K}{J}(\theta_{n+1}-\theta_n)=K(\theta_{n-1}-2\theta_n+\theta_{n+1})
+\dfrac{d^2\theta_n}{dt^2}=\dfrac{K}{J}(\theta_{n-1}-2\theta_n+\theta_{n+1})
 $$
  
 ## Illustrations
