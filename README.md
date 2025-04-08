@@ -21,7 +21,10 @@ avec
 $$A=
 \pmatrix{
 0_{N \times N}&I_N\\
-0
+\pmatrix{
+1&0\\
+0&1
+}
 &0_{N \times N}
 }$$
  
