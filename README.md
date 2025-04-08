@@ -2,7 +2,7 @@
 
 ## Pendules couplés
 
-On considère $N$ barres horizontales de moment d'inertie $J$, suspendues à un fil de torsion de raideur $K$ et régulièrerement espacées sur un axe vertical. Les deux extrémités du fil sont fixées. Pour la barre numéro $n$ avec $0\leq N \leq N-1$, l'angle de cette barre est noté $\theta_n$. Le couple qui s'exerce sur cette barre est $K(\theta_{n-1}-\theta_n) + K(\theta_{n+1}-\theta_n)=K(\theta_{n-1}-2\theta_n+\theta_{n+1})$
+On considère $N$ barres horizontales de moment d'inertie $J$, suspendues à un fil de torsion de raideur $K$ et régulièrerement espacées sur un axe vertical. Les deux extrémités du fil sont fixées. Pour la barre numéro $n$ avec $0\leq N \leq N-1$, l'angle de cette barre est noté $\theta_n$, de sorte que $\theta_n=0$ corresponde à la position d'équilibre. Le couple qui s'exerce sur cette barre est $K(\theta_{n-1}-\theta_n) + K(\theta_{n+1}-\theta_n)=K(\theta_{n-1}-2\theta_n+\theta_{n+1})$, avec $\theta_{-1}=\theta_N=0$.
  
 ## Illustrations
 
