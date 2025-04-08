@@ -21,6 +21,7 @@ avec
 $$A=
 \pmatrix{
 0_{N \times N}&I_N\\
+\dfrac{K}{J}
 \pmatrix{
 1&0\\
 0&1
