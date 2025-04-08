@@ -21,7 +21,8 @@ avec
 $$A=
 \pmatrix{
 0_{N \times N}&I_N\\
-0&1
+0
+&0_{N \times N}
 }$$
  
 ## Illustrations
