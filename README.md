@@ -1,5 +1,9 @@
 # Modes propres d'un système linéaire invariant
 
+## Pendules couplés
+
+On considère $N$ barres horizontales de moment d'inertie $J$, suspendues à un fil de torsion de raideur $K$.
+ 
 ## Illustrations
 
 ### Impulsion initiale
