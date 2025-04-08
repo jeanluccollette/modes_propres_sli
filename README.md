@@ -36,7 +36,7 @@ Il apparaît les valeurs propres de la matrice A sont toutes imaginaires pures. 
 
 Avec une condition initiale de la forme $Y_0=\Re(Gp_k)$, avec $G$ complexe, la solution sera associée à un seul mode
 
-$$Y=e^{At}Y_0)=e^{At}\Re(Gp_k)=\Re(Gp_ke^{j\omega_kt})$$
+$$Y=e^{At}Y_0=e^{At}\Re(Gp_k)=\Re(Gp_ke^{j\omega_kt})$$
  
 ## Illustrations
 
