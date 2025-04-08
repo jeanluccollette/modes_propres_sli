@@ -33,6 +33,8 @@ $$A=
 }$$
 
 Il apparaît les valeurs propres de la matrice A sont toutes imaginaires pures. Elles figurent par paire $j\omega_k$ et $-j\omega_k$, associées à des vecteurs propres conjugués $p_k$ et $p_k^*$.
+
+Avec une condition initiale de la forme $Re{Gp_k}$
  
 ## Illustrations
 
