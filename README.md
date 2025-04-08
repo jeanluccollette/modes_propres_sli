@@ -25,7 +25,7 @@ $$A=
 \pmatrix{
 -2&1&0&\dots&0&0&0\\
 1&-2&1&\dots&0&0&0\\
-\dots&\dots&\dots&\dots&\dots&\dots&\dots\\
+\vdots&\vdots&\vdots&\vdots&\vdots&\vdots&\vdots\\
 0&0&0&\dots&1&-2&1\\
 0&0&0&\dots&0&1&-2
 }
