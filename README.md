@@ -18,7 +18,10 @@ $$\dfrac{dY}{dt}=AY$$
 
 avec
 
-$$A=\pmatrix{1&0\\0&1}$$
+$$A=
+\pmatrix{
+1&0\\
+0&1}$$
  
 ## Illustrations
 
