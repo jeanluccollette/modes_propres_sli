@@ -2,7 +2,7 @@
 
 ## Pendules couplés
 
-On considère $N$ barres horizontales de moment d'inertie $J$, suspendues à un fil de torsion de raideur $K$.
+On considère $N$ barres horizontales de moment d'inertie $J$, suspendues à un fil de torsion de raideur $K$ et régulièrerement espacées sur un axe vertical. Les deux extrémités du fil sont fixées. Pour la barre numéro $n$ avec $0\leqN\leqN-1$, l'angle de cette barre est noté $\theta_n$
  
 ## Illustrations
 
