@@ -38,7 +38,7 @@ Avec une condition initiale de la forme $Y_0=\Re(Gp_k)$, avec $G$ complexe, la s
 
 $$Y=e^{At}Y_0=e^{At}\Re(Gp_k)=\Re(Gp_ke^{j\omega_kt})$$
 
-Les 3 exemples figurant dans la rubrique **Illustrations** montrent les simulations réalisées avec des conditions initiales initiales qui correspondent aux modes sélectionnés. Avec la condition initiale imposée dans l'exemple **Impulsion initiale**, on retrouve un mélange de tous les modes identifiés.
+Les 3 exemples figurant dans la rubrique **Illustrations** montrent les simulations réalisées avec des conditions initiales qui correspondent aux modes sélectionnés. Avec la condition initiale imposée dans l'exemple **Impulsion initiale**, on retrouve un mélange de tous les modes identifiés.
  
 ## Illustrations
 
