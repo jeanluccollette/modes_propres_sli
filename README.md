@@ -42,10 +42,6 @@ Les 3 exemples figurant dans la rubrique **Illustrations** montrent les simulati
  
 ## Illustrations
 
-### Impulsion initiale
-
-https://github.com/user-attachments/assets/2c80725d-21d8-4d6a-913c-015207d800e2
-
 ### Exemple 1
 
 ![puls_1](https://github.com/user-attachments/assets/67026d3f-120c-4ff4-892d-b11f21a61507)
@@ -75,6 +71,10 @@ https://github.com/user-attachments/assets/4fae1fa9-fa40-4cc4-9fab-2663b134c473
 ![cond_3](https://github.com/user-attachments/assets/5281ac57-002d-4c23-9719-819520cbb26b)
 
 https://github.com/user-attachments/assets/17b9687f-a79f-4731-92e4-08ea820e5780
+
+### Impulsion initiale
+
+https://github.com/user-attachments/assets/2c80725d-21d8-4d6a-913c-015207d800e2
 
 
 
