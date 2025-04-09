@@ -32,7 +32,7 @@ $$A=
 &0_{N \times N}
 }$$
 
-Il apparaît les valeurs propres de la matrice A sont toutes imaginaires pures. Elles figurent par paire $j\omega_k$ et $-j\omega_k$, associées à des vecteurs propres conjugués $p_k$ et $p_k^*$.
+Il apparaît que les valeurs propres de la matrice A sont toutes imaginaires pures. Elles figurent par paire $j\omega_k$ et $-j\omega_k$, associées à des vecteurs propres conjugués $p_k$ et $p_k^*$.
 
 Avec une condition initiale de la forme $Y_0=\Re(Gp_k)$, avec $G$ complexe, la solution sera associée à un seul mode
 
