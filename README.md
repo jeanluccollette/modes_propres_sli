@@ -36,7 +36,7 @@ Il apparaît que les valeurs propres de la matrice A sont toutes imaginaires pur
 
 Avec une condition initiale de la forme $Y_0=\Re(Gp_k)$, avec $G$ complexe, la solution sera associée à un seul mode
 
-$$Y=e^{At}Y_0=e^{At}\Re(Gp_k)=\Re(Gp_ke^{j\omega_kt})$$
+$$Y=e^{At}Y_0=e^{At}\Re(Gp_k)=\Re(Gp_ke^{j\omega_kt})=\dfrac{1}{2}(Gp_ke^{j\omega_kt}+G^*p_k^*e^{-j\omega_kt})$$
 
 Les 3 exemples figurant dans la rubrique **Illustrations** montrent les simulations réalisées avec des conditions initiales qui correspondent aux modes sélectionnés. Avec la condition initiale imposée dans l'exemple **Impulsion initiale**, on retrouve un mélange de tous les modes identifiés.
  
