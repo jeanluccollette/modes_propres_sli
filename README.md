@@ -34,7 +34,7 @@ $$A=
 
 Il apparaît que les valeurs propres de la matrice A sont toutes imaginaires pures. Elles figurent par paire $j\omega_k$ et $-j\omega_k$, associées à des vecteurs propres conjugués $p_k$ et $p_k^*$.
 
-Avec une condition initiale de la forme $Y_0=\Re(Gp_k)$, avec $G$ complexe, la solution sera associée à un seul mode
+Avec une condition initiale de la forme $Y_0=\Re(Gp_k)$, avec $G$ complexe, la solution sera associée à un seul mode réel.
 
 $$Y=e^{At}Y_0=e^{At}\Re(Gp_k)=\Re(Gp_ke^{j\omega_kt})=\dfrac{1}{2}(Gp_ke^{j\omega_kt}+G^*p_k^*e^{-j\omega_kt})$$
 
